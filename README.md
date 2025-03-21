@@ -2,7 +2,7 @@
 
 A **Flask-based encrypted file sharing system** that allows users to securely **upload and download files** with AES encryption.  
 
-⚠️ **Currently, this project runs locally**. To make it accessible over the internet, deploy it on **AWS, Render, or Heroku** (instructions below).  
+⚠️ **Currently, this project runs locally**. To make it accessible over the internet, deploy it on **AWS, Render, or Heroku**.  
 
 ## 🚀 Features
 ✅ **AES Encryption** – Securely encrypts uploaded files.  
